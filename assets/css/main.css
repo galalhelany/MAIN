@@ -108,7 +108,7 @@ body, ul, li, p, a, label, input, div {
 
 
 /* Hero Carousel */
-#template-mo-gm-hero-carousel { background: #000000 !important;}
+#template-mo-zay-hero-carousel { background: #000000 !important;}
 /* Accordion */
 .gm-accordion a { color: #000;}
 .gm-accordion a:hover { color: #333d4a;}
@@ -148,12 +148,12 @@ body, ul, li, p, a, label, input, div {
   opacity: 1;
 }
 /* Carousel Hero */
-#template-mo-gm-hero-carousel .carousel-indicators li {
+#template-mo-zay-hero-carousel .carousel-indicators li {
   margin-top: -50px;
   background-color: #000000;
 }
-#template-mo-gm-hero-carousel .carousel-control-next i,
-#template-mo-gm-hero-carousel .carousel-control-prev i {
+#template-mo-zay-hero-carousel .carousel-control-next i,
+#template-mo-zay-hero-carousel .carousel-control-prev i {
   color: #B9A0A0 !important;
   font-size: 2.8em !important;
 }
@@ -208,7 +208,7 @@ body, ul, li, p, a, label, input, div {
 /* Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) {
   #gm_main_nav .navbar-nav {max-width: 550px;}
-  #template-mo-gm-hero-carousel .carousel-item {min-height: 30rem !important;}
+  #template-mo-zay-hero-carousel .carousel-item {min-height: 30rem !important;}
   .product-wap .h3, .product-wap li, .product-wap i, .product-wap p {font-size: 18px !important;}
   .product-wap .product-color-dot {
     width: 12px;
